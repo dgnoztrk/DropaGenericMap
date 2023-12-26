@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>DropaGenericMapper</id>
+    <version>1.0.0</version>
+    <authors>dogan.ozturk</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <icon>https://raw.githubusercontent.com/dgnoztrk/DropaGenericMap/master/Mapper/AppIcon/appicon.png</icon> 
+    <projectUrl>https://github.com/dgnoztrk/DropaGenericMap</projectUrl>
+    <description>Dropa Generic Mapper</description>
+    <releaseNotes>first release.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>c# generic mapper</tags>
+    <dependencies>
+		<group targetFramework="net8.0">
+			<dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.0" />
+		</group>
+	</dependencies>
+  </metadata>
+</package>
